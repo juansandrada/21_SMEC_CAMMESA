@@ -1,0 +1,12 @@
+Intrucciones de uso:
+
+1) Copiar los archivo a la carpeta "Archivos de Entrada"
+
+2) Ejecutar el comando: py mainCAMMESAconverter.py
+	o python mainCAMMESAconverter.py
+
+3) Los archivos convertidos quedan guardados en la carpeta: "Archivos de Salida"
+
+Nota: se requiere tener Python instalado.
+Aplicacion realizada por Juan S. Andrada.
+
