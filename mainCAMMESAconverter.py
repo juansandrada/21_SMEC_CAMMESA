@@ -22,7 +22,8 @@ def convertirArchivo(archivo):
     cadena_fecha = ""
     archivoSalida = ""
     nombre_archivo = "Archivos de Entrada/" + archivo
-
+    #Esta es una modificacion
+    
     with open(nombre_archivo, "r") as archivo:
         linea = archivo.readline()
         while linea:
