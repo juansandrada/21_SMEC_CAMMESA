@@ -23,6 +23,7 @@ def convertirArchivo(archivo):
     archivoSalida = ""
     nombre_archivo = "Archivos de Entrada/" + archivo
     #Esta es una modificacion
+    #esta es la segunda modificacion
     
     with open(nombre_archivo, "r") as archivo:
         linea = archivo.readline()
